@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="ページ1" id="g2LiyGsbFztUu-VZV9Sq">
-    <mxGraphModel dx="954" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
         <mxCell id="y7YUD5gvW1xx9Sv0R6KF-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;03_料理検索結果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TqC6wuSXkMqGgvr65iPr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="y7YUD5gvW1xx9Sv0R6KF-4" target="JqCOu9I3WGE_JNEfnTLN-3">
+        <mxCell id="TqC6wuSXkMqGgvr65iPr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;" parent="1" source="y7YUD5gvW1xx9Sv0R6KF-4" target="JqCOu9I3WGE_JNEfnTLN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496" y="300" />
@@ -111,6 +111,9 @@
         <mxCell id="y7YUD5gvW1xx9Sv0R6KF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="y7YUD5gvW1xx9Sv0R6KF-11" target="y7YUD5gvW1xx9Sv0R6KF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nESoz010F5GxdWaV8ZXG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y7YUD5gvW1xx9Sv0R6KF-11" target="nESoz010F5GxdWaV8ZXG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y7YUD5gvW1xx9Sv0R6KF-11" value="11_ユーザ管理画面(お気に入り料理の管理画面)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="620" width="140" height="60" as="geometry" />
         </mxCell>
@@ -157,6 +160,12 @@
           <mxGeometry x="479" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JqCOu9I3WGE_JNEfnTLN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.357;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="y7YUD5gvW1xx9Sv0R6KF-1" target="y7YUD5gvW1xx9Sv0R6KF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nESoz010F5GxdWaV8ZXG-1" value="17_料理ID参照画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="723" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nESoz010F5GxdWaV8ZXG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.921;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nESoz010F5GxdWaV8ZXG-1" target="y7YUD5gvW1xx9Sv0R6KF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
